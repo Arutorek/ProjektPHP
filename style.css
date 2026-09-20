@@ -4,7 +4,7 @@ body {
 }
 
 
-.student {
+.student, .teacher {
     border: 1px solid #333;
     padding: 15px;
     margin: 10px, 0;
@@ -12,6 +12,6 @@ body {
 }
 
 
-.student h2 {
+.student, .teacher, h2 {
     margin: 0;
 }
